@@ -1,11 +1,9 @@
 # Table of contents
 
-* [OI-whitepaper](README.md)
-* [Identity](identity.md)
-* [Motivation](motivation.md)
+* [ℹ Open Information](README.md)
 * [Milestones](milestones.md)
-* [Tech](tech.md)
+* [Soulbound NFTs](tech.md)
 * [Team](team.md)
-* [Crowd Fund](crowd-fund.md)
-* [Token](token.md)
+* [OPIF Token](token.md)
 * [Apparel](apparel.md)
+* [Concluding remarks](concluding-remarks.md)
