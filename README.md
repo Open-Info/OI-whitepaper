@@ -1,37 +1,21 @@
 ---
-description: Greetings readers,
+description: Hi there,
 ---
 
-# ℹ Open Information
+# ℹ Introduction
 
-## What is Open Information?
+I am pleased to introduce you to our latest project, Open Information. In today's world, trust is a valuable commodity, and unfortunately, it's becoming harder and harder to come by. With the rise of digital assets, it's more important than ever to have a way to verify the identity of those with whom we transact. That's where Open Information comes in.
 
-We are excited to share with you Open Information(**OI**), a collective effort to bring about a world where information is free, accessible, and transparent. The movement aims to exist for the benefit of all. OI empowers individuals and communities to access knowledge, verify information, and collaborate effectively.\
-\
-OI is changing the way we verify information through the use of <mark style="color:blue;">Soulbound NFTs</mark> for <mark style="color:green;">certification</mark> and <mark style="color:red;">flagging</mark>.
+Our goal with Open Information is to establish a reputation system that is based on verifiable and transparent data. We want to create a system where users can easily verify the identity of others and track their interactions on the Ethereum network. By using soulbound NFTs, we can quickly and transparently verify the identity of Ethereum public keys, and save the reputation of the owner's interactions for future reference. Furthermore, any addresses found to act unlawfully will be flagged, making it easier for other users to avoid fraudulent actors.
 
-{% hint style="info" %}
-<mark style="color:blue;">Soulbound NFTs</mark> are irrefutable, they can always be openly verified on the blockchain. They are unique and cannot be duplicated or transferred.&#x20;
-{% endhint %}
+What sets Open Info apart is our centralized caching system that builds and saves the network of Soulbound NFTs in a large graphing database. This system mirrors the decentralized source of truth but offers much greater data bandwidth in real time. This large amount of data will allow us to train an AI model that can take over as a custodian for verification <mark style="color:green;"></mark> and flagging, in a decentralised manner.  The duty of Open Info is to ensure that this takes place only under the circumstance that it is beneficial to everyone and will not cause any harm.
 
-#### Certification and Flagging
+By establishing a transparent and verifiable reputation system, we can increase trust in the network and improve the overall security of the ecosystem. We are confident that our project will have a significant impact on the Ethereum community, and we hope that you will consider supporting our efforts.
 
-OI <mark style="color:green;">certifies</mark> individuals, organizations, and businesses that have met specific criteria. OI also tracks and monitors individuals or organizations through their interaction patterns with other addresses. Those that have been (inter)acting maliciously, are <mark style="color:red;">flagged</mark>. Once an address is flagged with the <mark style="color:blue;">Soulbound NFT</mark>, it cannot get rid of it. This feature helps to prevent fraud and corruption in various fields, including education, finance, and politics.&#x20;
+We welcome any contributions to our project, whether it's through financial support or simply spreading the word. Together, we can build a more secure and trustworthy Ethereum network that benefits us all.
 
-#### Goal
+Thank you for your time and consideration. If you are interested, please continue reading.
 
-Ultimately, assembling the greater network of interactions will be used to train an AI algorithim to predictively and in a decentralised manner, act as custodian for the verification and flagging of the information. The duty of OI is to ensure that this takes place only under the circumstance that it is beneficial to everyone and will not cause any harm.
+Sincerley,
 
-## Whitepaper breakdown
-
-To better understand OI, this whitepaper has been created to outline its purpose, goals, and methodology. The whitepaper provides a detailed explanation of how <mark style="color:blue;">Soulbound NFTs</mark> are used for <mark style="color:green;">certification</mark> and <mark style="color:red;">flagging</mark>. It also includes information on the social impact this movement hopes to achieve.
-
-{% content-ref url="tech.md" %}
-[tech.md](tech.md)
-{% endcontent-ref %}
-
-If you are interested in contributing to this movement,[ **this whitepaper provides links to help support it.**](broken-reference) Open Information is changing the way we approach trust and transparency. It offers a unique solution to the challenges we face today in creating a more equitable and just society. So, join us today and help create a better world for all.
-
-{% content-ref url="apparel.md" %}
-[apparel.md](apparel.md)
-{% endcontent-ref %}
+The OpenInfo Team
