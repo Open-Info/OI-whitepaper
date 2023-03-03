@@ -16,6 +16,6 @@ We welcome any contributions to our project, whether it's through financial supp
 
 Thank you for your time and consideration. If you are interested, please continue reading.
 
-Sincerley,
+Sincerely,
 
 The OpenInfo Team
