@@ -5,6 +5,6 @@
 * [🛣 Roadmap](milestones.md)
 * [👾 Soulbound NFTs](tech.md)
 * [🗳 Voting](token.md)
-* [🌍 Team](team.md)
+* [🌍 Open Info Custodians](team.md)
 * [👕 Apparel](apparel.md)
 * [🙏 Concluding remarks](concluding-remarks.md)
