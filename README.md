@@ -18,4 +18,4 @@ Thank you for your time and consideration. If you are interested, please continu
 
 Sincerely,
 
-The OpenInfo Team
+The Open Info Team

@@ -1,3 +1,9 @@
+---
+description: drip
+---
+
 # 👕 Apparel
 
-[https://www.threadless.com/artist-shops/signup/art](https://www.threadless.com/artist-shops/signup/art)
+Our freelanced store-front, with charity contributions:
+
+{% embed url="https://vrfd.threadless.com/" %}

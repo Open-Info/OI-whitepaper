@@ -8,4 +8,4 @@ Open Info is paving the way for a more transparent, accountable, and equitable f
 
 With the integration of AI, decentralized systems can offer significant benefits to organizations looking to process and analyze vast amounts of data. Open Information is committed to exploring and advancing the integration of decentralization and AI to provide efficient, scalable, and accessible data systems for the benefit of all.\
 \
-[**This whitepaper provides links to help support it.**](broken-reference)&#x20;
+**Sponsors us:** <mark style="color:blue;">0x57d4ADA400d290a0c7028C10fFbeB659396239B6</mark>

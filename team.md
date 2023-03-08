@@ -1,47 +1,38 @@
 ---
-description: Our team
+description: The Preliminary Open Info Custodians.
 ---
 
-# 🌍 Open Info Custodians
+# 🌍 Team
 
-We have a team of dedicated members who are committed to delivering this project. You can be too, \[placeholder link]
+### Directors
 
-### Founders
-
-#### Werner
+#### Werner - Leader
 
 werner@vrfd.info\
-TG [@werner111](https://t.me/werner111)\
 \
 \[1] [Github](https://github.com/WernerVdM97)\
-\[2] [LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)
+\[2] [LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
+\[3] [Telegram](https://t.me/werner111)
 
-#### Decarb
-
-\[placeholder]
-
-#### Goku
-
-\[placeholder]
-
-### Development Team
-
-#### \[Freelance #1]
-
-\[placeholder]
-
-#### \[Freelancer #2]
+#### Zirk - Branding
 
 \[placeholder.]
 
-### Marketing Team
-
-#### Zirk
+#### Decarb - Technical
 
 \[placeholder]
 
+#### Goku - Finance
+
+\[placeholder]
+
+### Supporting Team
+
+blkdot - Frontend Developer
+
+Aditya -  Backend Developer
+
 ### Help Team
 
-#### The team that is online 24/7, [come say hello ](https://t.me/echelon\_chat).
+AK and Henry, [come say hello ](https://t.me/echelonchat).
 
-\[paceholder, AK, Henry]
