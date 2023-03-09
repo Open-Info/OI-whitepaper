@@ -6,7 +6,7 @@ To better understand Open Info, this whitepaper has been created to outline its 
 [tech.md](tech.md)
 {% endcontent-ref %}
 
-The whitepaper provides a detailed explanation of how <mark style="color:blue;">Soulbound NFTs</mark> are used for <mark style="color:green;">verification</mark> and <mark style="color:red;">flagging</mark>. The token standards and any deviations from them are discussed.
+The whitepaper provides a detailed explanation of how soulbound <mark style="color:blue;"></mark> NFTs are used for verification <mark style="color:green;"></mark> and flagging. The token standards and any deviations from them are discussed.
 
 {% content-ref url="milestones.md" %}
 [milestones.md](milestones.md)
@@ -30,4 +30,4 @@ The diverse team responsible for this project is introduced here.
 [apparel.md](apparel.md)
 {% endcontent-ref %}
 
-If you are interested in contributing to this project,[ **this whitepaper provides links to help support it.**](broken-reference) We also have official Open Information branded merchandise!
+If you are interested in contributing to this project, consider supporting us through our merchandise store.
