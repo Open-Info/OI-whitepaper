@@ -3,7 +3,7 @@
 * [ℹ Introduction](README.md)
 * [📑 Breakdown](<README (1).md>)
 * [🛣 Roadmap](milestones.md)
-* [👾 Soulbound NFTs](tech.md)
+* [👾 Soulbound Certification](tech.md)
 * [🗳 Voting](token.md)
 * [🌍 Team](team.md)
 * [👕 Apparel](apparel.md)

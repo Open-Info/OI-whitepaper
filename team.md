@@ -4,9 +4,11 @@ description: The Preliminary Open Info Custodians.
 
 # 🌍 Team
 
-### Directors
+## Core
 
-#### Werner - Leader
+### Werner&#x20;
+
+#### Executive
 
 werner@vrfd.info\
 \
@@ -14,25 +16,44 @@ werner@vrfd.info\
 \[2] - [LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
 \[3] - [Telegram](https://t.me/werner111)
 
-#### Zirk - Branding
+### Zirk
+
+#### Branding
 
 \[placeholder.]
 
-#### Decarb - Technical
+### Devin
+
+#### Technical
 
 \[placeholder]
 
-#### Goku - Finance
+### Marinus
+
+#### Finance
 
 \[placeholder]
 
-### Supporting Team
+### Quartus
+
+#### Operations
+
+\[placeholder]
+
+## Support
+
+help@vrfd.info
+
+AK and Henry, everpresent in our [Telegram](https://t.me/echelonchat).
+
+## AIs
+
+Open Info Custodian (in training)
+
+ChatGPT
+
+## Freelance Team
 
 blkdot - Frontend Developer
 
-Aditya -  Backend Developer
-
-### Help Team
-
-AK and Henry, always present in our [Telegram](https://t.me/echelonchat).
-
+Aditya - Backend Developer
