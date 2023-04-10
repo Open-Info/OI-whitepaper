@@ -22,7 +22,7 @@ The second quarter will be devoted to public testing of the soulbound-certificat
 
 The third quarter will see the official launch of the dApp, namely VRFD. The verification and flagging systems will be made available to the public, and the project will begin accepting applications for verification, flagging, and official certification. During this time, the project will also work to raise awareness of its mission and benefits thereof.
 
-## Q4 (October-December):&#x20;
+## Q4
 
 ### Gather data and develop AI
 
