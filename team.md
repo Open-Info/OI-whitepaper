@@ -6,39 +6,62 @@ description: The Preliminary Open Info Custodians.
 
 ## Core
 
-### Werner&#x20;
+<details>
 
-#### Executive
+<summary>Werner | Executive</summary>
 
 werner@vrfd.info\
 \
-\[1] - [Github](https://github.com/WernerVdM97)\
-\[2] - [LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
-\[3] - [Telegram](https://t.me/werner111)
+[Github](https://github.com/WernerVdM97)\
+[LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
+[Telegram](https://t.me/werner111)
 
-### Zirk
+</details>
 
-#### Content
+<details>
 
-\[placeholder.]
+<summary>Zirk | Branding</summary>
 
-### Devin
 
-#### Technical
 
-\[placeholder]
 
-### Marinus
 
-#### Finance
+</details>
 
-\[placeholder]
+<details>
 
-### Quartus
+<summary>Devin | Technical</summary>
 
-#### Operations
 
-\[placeholder]
+
+</details>
+
+<details>
+
+<summary>Marinus | Finance</summary>
+
+marinus@vrfd.info\
+finance@vrfd.info
+
+[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)
+
+</details>
+
+<details>
+
+<summary>Quartus | Operational</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Rossouw | Data</summary>
+
+
+
+</details>
 
 ## Support
 
