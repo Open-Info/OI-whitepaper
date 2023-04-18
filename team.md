@@ -10,8 +10,8 @@ description: The Preliminary Open Info Custodians.
 
 <summary>Werner | Executive</summary>
 
-werner@vrfd.info\
-\
+werner@vrfd.info
+
 [Github](https://github.com/WernerVdM97)\
 [LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
 [Telegram](https://t.me/werner111)
@@ -43,8 +43,7 @@ werner@vrfd.info\
 marinus@vrfd.info\
 finance@vrfd.info
 
-[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)
-
+[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)\
 [Telegram](https://t.me/MarinusVRFD)
 
 </details>
@@ -69,7 +68,7 @@ finance@vrfd.info
 
 help@vrfd.info
 
-AK and Henry, everpresent in our [Telegram](https://t.me/echelonchat).
+AK and Henry are everpresent in our [Telegram](https://t.me/echelonchat).
 
 ## AIs
 
