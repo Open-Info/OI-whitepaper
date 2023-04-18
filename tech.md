@@ -15,11 +15,12 @@ The Soulbound non-fungible token (SNFT) is a digital asset that is used by Open 
 To ensure the interoperability of Soulbound NFTs across different platforms and ecosystems, the Open Info movement has adopted the ERC-721 standard with soulbound deviations. ERC-721 is a widely used standard for non-fungible tokens on the Ethereum blockchain, and it provides a set of guidelines and rules for creating and managing NFTs.
 
 {% hint style="info" %}
-<mark style="color:blue;">Soulbound NFTs</mark> are irrefutable:
+Soulbound-NFTs are irrefutable,
 
-* they can always be openly verified on the blockchain.&#x20;
-* They are unique and&#x20;
-* cannot be duplicated or transferred.&#x20;
+* they can always be openly verified on the blockchain through EtherScan,
+* they are solely unique,
+* cannot be transferred, and
+* they cannot be burned unless approved by Open Info.&#x20;
 {% endhint %}
 
 The deviations from the ERC-721 standard are the owner's inability to transfer or burn the token from their address. The Open Info Custodian reserves the sole right to approve the minting or burning of any certified or flagged address. Users reserve the right to mint Verified for only themselves given they have linked a social account.&#x20;
