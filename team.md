@@ -45,6 +45,8 @@ finance@vrfd.info
 
 [LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)
 
+[Telegram](https://t.me/MarinusVRFD)
+
 </details>
 
 <details>
