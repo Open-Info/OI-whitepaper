@@ -22,9 +22,9 @@ werner@vrfd.info
 
 <summary>Zirk | Branding</summary>
 
-
-
-
+zirk@vrfd.info\
+\
+[LinkedIn](https://www.linkedin.com/in/zirk-mackay-94846b224)
 
 </details>
 
@@ -32,7 +32,9 @@ werner@vrfd.info
 
 <summary>Devin | Technical</summary>
 
-
+deving@vrfd.info\
+\
+[LinkedIn](https://za.linkedin.com/in/devin-joubert-a7561518a)
 
 </details>
 
@@ -52,7 +54,9 @@ finance@vrfd.info
 
 <summary>Quartus | Operational</summary>
 
-
+qaurtus@vrfd.info\
+\
+LinkedIn
 
 </details>
 
@@ -60,15 +64,16 @@ finance@vrfd.info
 
 <summary>Rossouw | Data</summary>
 
-
+rossouw@vrfd.info\
+\
+LinkedIn
 
 </details>
 
 ## Support
 
-help@vrfd.info
-
-AK and Henry are everpresent in our [Telegram](https://t.me/echelonchat).
+AK and Henry,\
+Contactable via [Telegram](https://t.me/echelonchat), or help@vrfd.info
 
 ## AIs
 
