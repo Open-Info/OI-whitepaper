@@ -4,11 +4,11 @@ description: The Preliminary Open Info Custodians.
 
 # 🌍 Team
 
-## Core
+## Buildspace N\&W s3 Team
 
 <details>
 
-<summary>Werner | Executive</summary>
+<summary>Werner | Fullstack</summary>
 
 werner@vrfd.info
 
@@ -20,21 +20,31 @@ werner@vrfd.info
 
 <details>
 
-<summary>Zirk | Branding</summary>
+<summary>Devin | Backend</summary>
 
-zirk@vrfd.info\
+devin@vrfd.info\
 \
-[LinkedIn](https://www.linkedin.com/in/zirk-mackay-94846b224)
+[LinkedIn](https://za.linkedin.com/in/devin-joubert-a7561518a)
 
 </details>
 
 <details>
 
-<summary>Devin | Technical</summary>
+<summary>BLKdot | Frontend</summary>
 
-deving@vrfd.info\
+blkdot@vrfd.info
+
+</details>
+
+## Supporting Team
+
+<details>
+
+<summary>Zirk | Branding</summary>
+
+zirk@vrfd.info\
 \
-[LinkedIn](https://za.linkedin.com/in/devin-joubert-a7561518a)
+[LinkedIn](https://www.linkedin.com/in/zirk-mackay-94846b224)
 
 </details>
 
@@ -70,19 +80,8 @@ LinkedIn
 
 </details>
 
-## Support
-
-AK and Henry,\
-Contactable via [Telegram](https://t.me/echelonchat), or help@vrfd.info
-
 ## AIs
-
-Open Info Custodian (in training)
 
 ChatGPT
 
-## Freelance Team
-
-blkdot - Frontend Developer
-
-Aditya - Backend Developer
+Open Info Custodian (in training)
