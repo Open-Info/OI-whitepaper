@@ -6,5 +6,5 @@
 * [👾 Soulbound Certification](tech.md)
 * [🗳 Voting](token.md)
 * [🌍 Team](team.md)
-* [👕 Apparel](apparel.md)
+* [👕 Merchandise](apparel.md)
 * [🙏 Concluding remarks](concluding-remarks.md)

@@ -1,16 +1,15 @@
 ---
-description: Drip
+description: Join the crew
 ---
 
-# 👕 Apparel
+# 👕 Merchandise
 
-## Threadless
+## Spring Store
 
-Our freelanced store-front, with charity contributions, see here:
+Our freelanced merchandise store-front:
 
-{% embed url="https://vrfd.threadless.com/" %}
+{% embed url="https://vrfd.creator-spring.com/" %}
+
+<figure><img src=".gitbook/assets/image_model(1).png" alt=""><figcaption></figcaption></figure>
 
 More items coming soon!\
-
-
-<figure><img src=".gitbook/assets/shirt.png" alt=""><figcaption><p><a href="https://vrfd.threadless.com/designs/oi">https://vrfd.threadless.com/designs/oi</a></p></figcaption></figure>
