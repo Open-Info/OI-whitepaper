@@ -7,4 +7,6 @@
 * [🗳 Voting](token.md)
 * [🌍 Team](team.md)
 * [👕 Merchandise](apparel.md)
+* [📣 Socials](socials.md)
+* [☝ Feedback](feedback.md)
 * [🙏 Concluding remarks](concluding-remarks.md)

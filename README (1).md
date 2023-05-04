@@ -35,3 +35,21 @@ If you are interested in contributing to this project, consider supporting us th
 {% content-ref url="apparel.md" %}
 [apparel.md](apparel.md)
 {% endcontent-ref %}
+
+View all of our official social channels here
+
+{% content-ref url="socials.md" %}
+[socials.md](socials.md)
+{% endcontent-ref %}
+
+Submit any feedback you have for us here.
+
+{% content-ref url="feedback.md" %}
+[feedback.md](feedback.md)
+{% endcontent-ref %}
+
+And a final message to say thanks for taking the time to read through this whitepaper.
+
+{% content-ref url="concluding-remarks.md" %}
+[concluding-remarks.md](concluding-remarks.md)
+{% endcontent-ref %}
