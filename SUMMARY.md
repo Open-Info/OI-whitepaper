@@ -6,16 +6,16 @@
 ## The Product
 
 * [✅ VRFD dApp](the-product/vrfd-dapp.md)
-* [👾 Soulbound Certification](the-product/tech.md)
-* [🗳 Voting](the-product/token.md)
-* [👕 Merchandise](the-product/apparel.md)
+* [👾 Soulbound Certification](tech.md)
+* [🗳 Voting](token.md)
+* [👕 Merchandise](apparel.md)
 
 ## About us
 
-* [🌍 Team](about-us/team.md)
-* [🛣 Roadmap](about-us/milestones.md)
-* [📣 Socials](about-us/socials.md)
+* [🌍 Team](team.md)
+* [🛣 Roadmap](milestones.md)
+* [📣 Socials](socials.md)
 
 ***
 
-* [🙏 Concluding remarks](concluding-remarks.md)
+* [🙏 Concluding remarks](feedback.md)
