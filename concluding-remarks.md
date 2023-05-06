@@ -4,6 +4,12 @@ description: Thank you for your time.
 
 # 🙏 Concluding remarks
 
-Open Info is paving the way for a more transparent, accountable, and equitable future. With the eventual integration of AI, we can create a decentrally governed authority which acts as a custodian for the legitimacy of anonomous users. \
+Open Info is paving the way for a more transparent, accountable, and equitable future. With the eventual integration of AI, we can create a decentrally governed authority which acts as a custodian for the legitimacy of anonymous users and prevent others from suffering the same fate as those who have been unfortunate to be the victim of a malicious actor. \
 \
-**Sponsors us:** <mark style="color:blue;">0x5008F5564327FE923D39B1eA41dE519F1C497fF2</mark>
+Consider sponsoring us, `0x5008F5564327FE923D39B1eA41dE519F1C497fF2`.
+
+## Talk to us!
+
+Lastly, if you have any feedback or questions please reach out to us on any of our socials or submit them here.
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSeEElHik2BTKSZhk9t_4gIza_ZHqLzWoo-2AMKfQW-XUl4bFw/viewform?usp=sf_link" %}

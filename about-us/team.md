@@ -85,3 +85,7 @@ LinkedIn
 ChatGPT
 
 Open Info Custodian (in training)
+
+## Want to join?
+
+Contact [Werner](https://t.me/werner111) and be sure to bring your verified address along!

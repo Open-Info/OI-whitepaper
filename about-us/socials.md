@@ -4,7 +4,7 @@ description: Join us on our public platforms.
 
 # 📣 Socials
 
-Click on the tabs below to view.
+Click on the tabs below to view our different social accounts.
 
 {% tabs %}
 {% tab title="Telegram" %}
