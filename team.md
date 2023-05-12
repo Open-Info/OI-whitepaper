@@ -66,7 +66,7 @@ finance@vrfd.info
 
 qaurtus@vrfd.info\
 \
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/quartus-lamprecht-42bb9815a/)
 
 </details>
 
@@ -76,7 +76,7 @@ LinkedIn
 
 rossouw@vrfd.info\
 \
-LinkedIn
+[LinkedIn](team.md)
 
 </details>
 
