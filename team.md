@@ -74,7 +74,7 @@ qaurtus@vrfd.info\
 
 <summary>Rossouw | Data</summary>
 
-rossouw@vrfd.info\
+ross@vrfd.info\
 \
 [LinkedIn](team.md)
 
