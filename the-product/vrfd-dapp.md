@@ -8,7 +8,7 @@ VRFD is like Yelp but for Ethereum with bounty rewards for successful reports to
 
 Enter the dApp below:
 
-{% embed url="https://vrfd.info" %}
+{% embed url="https://app.vrfd.info" %}
 
 ## Features
 
