@@ -4,25 +4,28 @@ description: The Preliminary Open Info Custodians.
 
 # 🌍 Team
 
-## Buildspace N\&W s3 Team
+## Our 6 founding members
 
 <details>
 
-<summary>Werner | Fullstack</summary>
+<summary>Werner | CEO</summary>
+
+Our leader.
 
 werner@vrfd.info
 
 [Github](https://github.com/WernerVdM97)\
-[LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)\
-[Telegram](https://t.me/werner111)
+[LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)
 
 </details>
 
 <details>
 
-<summary>Devin | Backend</summary>
+<summary>Devin | CTO</summary>
 
-devin@vrfd.info\
+The brains.
+
+decarb@vrfd.info\
 \
 [LinkedIn](https://za.linkedin.com/in/devin-joubert-a7561518a)
 
@@ -30,19 +33,12 @@ devin@vrfd.info\
 
 <details>
 
-<summary>BLKdot | Frontend</summary>
+<summary>Zirk | CBO</summary>
 
-blkdot@vrfd.info
-
-</details>
-
-## Supporting Team
-
-<details>
-
-<summary>Zirk | Branding</summary>
+The looks.
 
 zirk@vrfd.info\
+brand@vrfd.info\
 \
 [LinkedIn](https://www.linkedin.com/in/zirk-mackay-94846b224)
 
@@ -52,17 +48,20 @@ zirk@vrfd.info\
 
 <summary>Marinus | Finance</summary>
 
+The cruncher of numbers.
+
 marinus@vrfd.info\
 finance@vrfd.info
 
-[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)\
-[Telegram](https://t.me/MarinusVRFD)
+[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)
 
 </details>
 
 <details>
 
-<summary>Quartus | Operational</summary>
+<summary>Quartus | COO</summary>
+
+The oil to our machine.
 
 qaurtus@vrfd.info\
 \
@@ -74,18 +73,19 @@ qaurtus@vrfd.info\
 
 <summary>Rossouw | Data</summary>
 
+The problem solver.
+
 ross@vrfd.info\
 \
 [LinkedIn](team.md)
 
 </details>
 
-## AIs
+## The supporting crew
 
-ChatGPT
-
-Open Info Custodian (in training)
+1. Open Info Custodian (AI in training)
+2. AK, our always-available Telegram moderator.&#x20;
 
 ## Want to join?
 
-Contact [Werner](https://t.me/werner111) and be sure to bring your verified address along!
+Contact hi@vrfd.info and be sure to bring your verified address along!

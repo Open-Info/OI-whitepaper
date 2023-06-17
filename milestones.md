@@ -26,6 +26,6 @@ The third quarter will see the official launch of the dApp, namely VRFD. The ver
 
 ### Gather data and develop AI
 
-In the fourth quarter, the Open Info movement will focus on gathering data and developing the AI custodian. Open Information will analyze the effectiveness of the system, this includes all collected data from the Soulbound NFTs as well as feedback from our users.&#x20;
+In the fourth quarter, the Open Info movement will focus on gathering data and developing the AI model. Open Info will analyze the effectiveness of the system, this includes all collected data from the Soulbound NFTs as well as feedback from our users.&#x20;
 
-Once enough data has been accumulated, Open Info will begin exploring the use of AI to take over as the Open Info custodian. This will involve developing algorithms and machine learning models that can identify patterns and anomalies in the data, flagging potential fraud and corruption. The goal is to make the verification system more efficient and effective, providing greater transparency and accountability to the community, whilst remaining scalable.
+Once enough data has been accumulated, Open Info will continue developing algorithms and machine learning models that can identify patterns and anomalies in the data, flagging potential fraud and corruption. The goal is to make the flagging system more efficient and effective, providing greater transparency and accountability to the community, whilst remaining scalable.

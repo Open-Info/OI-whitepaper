@@ -4,7 +4,7 @@ description: a place for Ethereum reviews
 
 # ✅ VRFD dApp
 
-VRFD is like Yelp but for Ethereum with bounty rewards for successful reports to help buyers transact with confidence.
+A public address book for Ethereum. VRFD provides buyers the confidence necessary to make informed transaction decisions.
 
 Enter the dApp below:
 
@@ -18,11 +18,11 @@ VRFD is a decentralized web3 integrated App that allows users to:
 2. Report other Ethereum addresses for acting in a manner that is malicious towards others; provided proof is supplied.
 3. Openly query and validate the status (i.e. verified or flagged) of any given Ethereum address.
 
-## Fees and Rewards
+## Monetization
 
 * Verification and querying of any address will forever be free to use.&#x20;
 * Certification is available at a varying fee depending on the scale.
-* Successful reports give verified users a chance of claiming a bounty reward. The size and type of rewards will vary from time. See our socials for currently active bounties.
+* Successful reports of unidentified addresses give verified users a chance of earning a bounty reward.
 
 ## Backend
 
