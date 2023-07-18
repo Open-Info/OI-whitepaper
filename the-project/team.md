@@ -2,7 +2,7 @@
 description: The Preliminary Open Info Custodians.
 ---
 
-# 🌍 Team
+# 👥 Core Team
 
 ## Our 6 founding members
 

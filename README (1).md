@@ -6,45 +6,47 @@ description: Table of contents
 
 To better understand Open Info, this whitepaper has been created to outline its purpose, goals, and methodology. &#x20;
 
-## The Product(s)
+## The Project
 
-Open Info's first product, namely VRFD, is introduced and described.
+The project's structure, stakeholders and governance are explained in the first section
+
+{% content-ref url="the-project/formalities.md" %}
+[formalities.md](the-project/formalities.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-project/open-info-token-oit.md" %}
+[open-info-token-oit.md](the-project/open-info-token-oit.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-project/stakeholders.md" %}
+[stakeholders.md](the-project/stakeholders.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-project/token.md" %}
+[token.md](the-project/token.md)
+{% endcontent-ref %}
+
+{% content-ref url="the-project/team.md" %}
+[team.md](the-project/team.md)
+{% endcontent-ref %}
+
+## The Product
+
+Open Info's first product, namely VRFD, is introduced and described. A detailed explanation of Soulbound NFTs is also included. The product roadmap is presented.
 
 {% content-ref url="the-product/vrfd-dapp.md" %}
 [vrfd-dapp.md](the-product/vrfd-dapp.md)
 {% endcontent-ref %}
 
-The whitepaper provides a detailed explanation of how Soulbound NFTs are used for verification and flagging, The token standards and any deviations from them are also discussed.
-
 {% content-ref url="tech.md" %}
 [tech.md](tech.md)
 {% endcontent-ref %}
 
-Open Info VRFD token carries a voting utility in a decentralised AI reinforcement system, to ensure Open Info continues to only act in such a manner that is beneficial to all.
-
-{% content-ref url="token.md" %}
-[token.md](token.md)
-{% endcontent-ref %}
-
-If you are interested in contributing to this project, consider supporting us through our merchandise store.
-
-{% content-ref url="apparel.md" %}
-[apparel.md](apparel.md)
+{% content-ref url="the-product/milestones.md" %}
+[milestones.md](the-product/milestones.md)
 {% endcontent-ref %}
 
 ## About us
-
-The diverse team responsible for this project is introduced here.
-
-{% content-ref url="team.md" %}
-[team.md](team.md)
-{% endcontent-ref %}
-
-The project roadmap is divided up into quarterly goals and is defined until the end of 2023.
-
-{% content-ref url="milestones.md" %}
-[milestones.md](milestones.md)
-{% endcontent-ref %}
 
 View all of our official social channels here
 
@@ -52,16 +54,16 @@ View all of our official social channels here
 [socials.md](socials.md)
 {% endcontent-ref %}
 
-## Miscellaneous
+If you are interested in contributing to this project, consider supporting us through our merchandise store.
 
-Submit any feedback you have for us here.
+{% content-ref url="about-us/apparel.md" %}
+[apparel.md](about-us/apparel.md)
+{% endcontent-ref %}
+
+## Finally
+
+A final message to say thanks for taking the time to read through this whitepaper with a portal to submit any feedback you have for us.
 
 {% content-ref url="feedback.md" %}
 [feedback.md](feedback.md)
-{% endcontent-ref %}
-
-And a final message to say thanks for taking the time to read through this whitepaper.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
