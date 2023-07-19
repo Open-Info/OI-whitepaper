@@ -2,7 +2,7 @@
 description: Tokenholders
 ---
 
-# 🗳 Voting
+# Voting
 
 ## Proposals
 

@@ -10,6 +10,8 @@ description: The Preliminary Open Info Custodians.
 
 <summary>Werner | CEO</summary>
 
+Executive\
+\
 Our leader.
 
 werner@vrfd.info
@@ -23,6 +25,8 @@ werner@vrfd.info
 
 <summary>Devin | CTO</summary>
 
+Technical\
+\
 The brains.
 
 decarb@vrfd.info\
@@ -35,6 +39,8 @@ decarb@vrfd.info\
 
 <summary>Zirk | CBO</summary>
 
+Branding\
+\
 The looks.
 
 zirk@vrfd.info\
@@ -46,8 +52,10 @@ brand@vrfd.info\
 
 <details>
 
-<summary>Marinus | Finance</summary>
+<summary>Marinus | CFO</summary>
 
+Finances\
+\
 The cruncher of numbers.
 
 marinus@vrfd.info\
@@ -61,6 +69,8 @@ finance@vrfd.info
 
 <summary>Quartus | COO</summary>
 
+Operations\
+\
 The oil to our machine.
 
 qaurtus@vrfd.info\
@@ -71,8 +81,10 @@ qaurtus@vrfd.info\
 
 <details>
 
-<summary>Rossouw | Data</summary>
+<summary>Rossouw | CDO</summary>
 
+Data\
+\
 The problem solver.
 
 ross@vrfd.info\
