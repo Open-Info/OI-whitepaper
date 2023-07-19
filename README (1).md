@@ -14,16 +14,12 @@ The project's structure, stakeholders and governance are explained in the first 
 [formalities.md](the-project/formalities.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-project/open-info-token-oit/" %}
-[open-info-token-oit](the-project/open-info-token-oit/)
-{% endcontent-ref %}
-
 {% content-ref url="the-project/stakeholders.md" %}
 [stakeholders.md](the-project/stakeholders.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-project/open-info-token-oit/token.md" %}
-[token.md](the-project/open-info-token-oit/token.md)
+{% content-ref url="the-project/open-info-token-oit/" %}
+[open-info-token-oit](the-project/open-info-token-oit/)
 {% endcontent-ref %}
 
 {% content-ref url="the-project/team.md" %}
