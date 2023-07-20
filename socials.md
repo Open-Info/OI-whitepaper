@@ -27,10 +27,10 @@ Click on the tabs below to view our different social accounts.
 {% embed url="https://www.tiktok.com/@oi_vrfd" %}
 {% endtab %}
 
-{% tab title="Loom" %}
-## Loom
+{% tab title="Medium" %}
+## Medium
 
-{% embed url="https://www.loom.com/spaces/All-VRFD-20742688" %}
+[https://oi-vrfd.medium.com/](https://oi-vrfd.medium.com/)
 {% endtab %}
 
 {% tab title="Discord" %}
