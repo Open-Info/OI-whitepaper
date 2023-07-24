@@ -2,13 +2,13 @@
 description: Irrefutable source of truth.
 ---
 
-# 👾 Soulbound Certification
+# 👾 Soulbound Identification
 
 ## Types of SNFTs
 
 The Soulbound non-fungible token (SNFT) is a digital asset that is used by Open Info for verifying users, certifying information, and flagging malicious actors. Each is a specialized type of NFT that is designed to be tamper-proof and resistant to forgery, making it ideal for use in situations where trust and verification are critical.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Verified Public Key:</td><td>Free to mint.</td><td>Requires a validate social media account.</td><td><a href=".gitbook/assets/vrfd.png">vrfd.png</a></td></tr><tr><td>Certified Public Key:</td><td>Unlocked through staking.</td><td>Requires KYC or proof of business trade.</td><td><a href=".gitbook/assets/crtfd.png">crtfd.png</a></td></tr><tr><td>Flagged Public Key:</td><td>Fees are redistributed as Bounty awards.</td><td>Proof of wrong-doing required.</td><td><a href=".gitbook/assets/flagged2.png">flagged2.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Verified Public Key</strong><br><br><em>$VRFD</em></td><td><p></p><p>Only costs gas.</p></td><td><p></p><p>Requires a validate social media account.</p></td><td><a href=".gitbook/assets/werner.eth_merchant_with_bright_green_hooded_jacket_and_dark_su_db19f2d2-0dda-4d83-b80e-2192d0d9cd0d.png">werner.eth_merchant_with_bright_green_hooded_jacket_and_dark_su_db19f2d2-0dda-4d83-b80e-2192d0d9cd0d.png</a></td></tr><tr><td><strong>Certified Public Key</strong><br><br><em>$CRTFD</em><br></td><td>Certification fee varies.</td><td><p></p><p>Requires KYC or proof of business trade.</p></td><td><a href=".gitbook/assets/werner.eth_woman_scammer_with_bright_golden_jacket_city_street__00c48db1-e111-4bc0-bc6c-83676136a3c8.png">werner.eth_woman_scammer_with_bright_golden_jacket_city_street__00c48db1-e111-4bc0-bc6c-83676136a3c8.png</a></td></tr><tr><td><strong>Flagged Public Key</strong><br><br><em>$FLAG</em><br></td><td>Costs only gas.<br><br>Successful reports unlock bounty drop eligibility.</td><td></td><td><a href=".gitbook/assets/werner.eth_scammer_with_red_jacket_city_street_cyberpunk_manga__bee07c77-c0dc-4a45-a451-ad9737e6d2bd.png">werner.eth_scammer_with_red_jacket_city_street_cyberpunk_manga__bee07c77-c0dc-4a45-a451-ad9737e6d2bd.png</a></td></tr></tbody></table>
 
 ## ERC721 and deviations
 
@@ -65,33 +65,60 @@ Open Info also tracks and monitors individuals or organizations through their pe
 
 By using the ERC-721 standard, Soulbound NFTs can also be easily integrated with other applications and platforms that support ERC-721 tokens, expanding their usefulness and potential applications.&#x20;
 
-The standard metadata JSON for an Open Info Verified, Certified or Flagged Soulbound NFT:
+The standard metadata JSON for an Open Info Verified NFT:
 
 ```json
 {
-  "image": "https://vrfd.info/[ADDRESS]",
-  "external_url": "https://vrfd.info/[ADDRESS]",
-  "name": "[ADDRESS || ENS-DOMAIN].VRFD",
-  "description": "[ADDRESS] has been [verified || flagged] by Open-Info, with a Souldbound-NFT.",
-  "Attributes": [
-    {
-      "trait_type": "VRFD?",
-      "value": "['VRFD 🗸' || 'CRTFD $' || 'FLAGGED X']"
-    },
-    {
-      "trait_type": "upvotes",
-      "value": "22"
-    },
-    {
-      "trait_type": "downvotes",
-      "value": "12"
-    },
-    {
-      "trait_type": "Reported By",
-      "value": "[ADDRESS]"
-    }
-  ]
+   "image": "ipfs://QmRzfgEyBN5zLk7THSRvXB9r2RqmvBUEZgs985fERRH3m",
+   "external_url": "https://app.vrfd.info/0x0e9989e703F39880A8E2759BB93B4A9dDD11aCcF",
+   "name": "0x0e9989e703F39880A8E2759BB93B4A9dDD11aCcF.VRFD",
+   "description": "0x0e9989e703F39880A8E2759BB93B4A9dDD11aCcF has been verified by Open-Info, with this Souldbound-NFT.",
+   "attributes": [
+       {
+           "trait_type": "Twitter",
+           "value": "wernerdoteth"
+       },
+       {
+           "trait_type": "Telegram",
+           "value": "werner111"
+       }
+   ]
 }
+
+```
+
+and the attributes are extended for Flagged NFTs:
+
+```json
+"attributes": [
+       {
+           "trait_type": "Scam",
+           "value": true
+       },
+       {
+           "trait_type": "Hack",
+           "value": true
+       },
+       {
+           "trait_type": "Market-Manipulation",
+           "value": true
+       },
+       {
+           "trait_type": "Proof",
+           "value": [
+               "https://rekt.news/deus-dao-r3kt/",
+               "https://twitter.com/peckshield/status/1654626667787321344"
+           ]
+       },
+       {
+           "trait_type": "Reported by",
+           "value": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045"
+       },
+       {
+           "trait_type": "Seconded by",
+           "value": "0x0e9989e703F39880A8E2759BB93B4A9dDD11aCcF"
+       }
+   ]
 ```
 
 ## Source

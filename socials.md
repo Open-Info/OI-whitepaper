@@ -7,12 +7,6 @@ description: Join us on our public platforms.
 Click on the tabs below to view our different social accounts.
 
 {% tabs %}
-{% tab title="Telegram" %}
-## Telegram
-
-{% embed url="https://t.me/oi_vrfd" %}
-{% endtab %}
-
 {% tab title="Twitter" %}
 ## Twitter
 
@@ -25,6 +19,12 @@ Click on the tabs below to view our different social accounts.
 ## TikTok
 
 {% embed url="https://www.tiktok.com/@oi_vrfd" %}
+{% endtab %}
+
+{% tab title="Telegram" %}
+## Telegram
+
+{% embed url="https://t.me/oi_vrfd" %}
 {% endtab %}
 
 {% tab title="Medium" %}

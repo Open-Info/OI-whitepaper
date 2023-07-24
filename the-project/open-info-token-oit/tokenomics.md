@@ -4,15 +4,15 @@
 
 ### Distribution:
 
-1. Public Presale: 1 million OIT tokens are given to the public.
-2. Decentralized Exchange (DEX) Liquidity: 600,000 OIT tokens are placed in a decentralized exchange, paired with USDT at a 1:1 ratio, valuing each token at 1 USD.
-3. Core Team: 150,000 OIT tokens are locked away and released uniformly after 1 year over a period of two more years.
-4. Private Investors: 100,000 OIT tokens are allocated to private investors.
-5. Rewards: 750,000 OIT tokens are allocated for rewarding active users:
-   1. LP token staking rewards: 400,000 OIT
-   2. OIT Staking rewards: 200,000 OIT
-   3. Airdrops: 100,000 OIT
-   4. Bounties: 50,000 OIT
+| Allocation                             | Number of tokens | Description                                                                                 |
+| -------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------- |
+| Public                                 | 1m               | Sold to the public through presale @ 0.98 USDT/OIT.                                         |
+| Decentralized Exchange (DEX) Liquidity | 600k             | <p>Placed in a decentralized exchange,<br>Half USDT/OIT, paired 1:1</p><p>Half ETH/OIT.</p> |
+| Core Team                              | 150k             | Locked away and released uniformly after 1 year over a period of two more years.            |
+| Private Investors                      | 100k             | Allocated to private investors @ 0.96 USDT/OIT.                                             |
+| Rewards                                | 750k             | Rewards for active users, see below.                                                        |
+
+<table data-card-size="large" data-view="cards"><thead><tr><th>Reward Type</th><th>Number of tokens</th></tr></thead><tbody><tr><td>LP token staking</td><td>400k</td></tr><tr><td>OIT Staking</td><td>200k</td></tr><tr><td>Airdrops</td><td>100k</td></tr><tr><td>Bounties</td><td>50k</td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/Token distribution on launch 2.svg" alt=""><figcaption></figcaption></figure>
 
