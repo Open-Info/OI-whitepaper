@@ -89,7 +89,7 @@ The problem solver.
 
 ross@vrfd.info\
 \
-[LinkedIn](team.md)
+[LinkedIn](https://www.linkedin.com/in/rossouw-landman-0679b5193/)
 
 </details>
 
