@@ -3,7 +3,7 @@
 Open Info (Pty) Ltd, a registered business/entity incorporated under the laws of South Africa, assumes responsibility for the administration of the VRFD. VRFD, which operates similarly to a decentralized autonomous organization (DAO) model, functions independently as a decentralized governance structure responsible for product incubation.&#x20;
 
 {% hint style="info" %}
-_VRFD,_ to the first product of Open Info; when explicitly referring to the legal entity associated with Open Info, it is denoted as _Open Info (Pty) Ltd_.
+_VRFD_ refers to the first product of Open Info; when explicitly referring to the legal entity associated with Open Info, it is denoted as _Open Info (Pty) Ltd_.
 {% endhint %}
 
 Open Info incubates smart web3 products, guiding them through design, development, marketing, iteration, and refinement. Its goal is to advance web3 technologies, empowering users with decentralized solutions. Open Info provides a robust incubation framework to support the development and successful launch of innovative smart web3 products, prioritizing enhanced functionality, security, and usability to meet evolving user needs in the decentralized ecosystem.
