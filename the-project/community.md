@@ -1,8 +1,8 @@
 ---
-description: Core team and shareholders
+description: Core team and token holders
 ---
 
-# 🌍 Token holders
+# 🌍 Community
 
 Within Open Info (Pty) Ltd, the registered employees primarily constitute the core team responsible for the day-to-day operations, _management_, and implementation of VRFD. As employees of the registered entity, they are entrusted with specific roles and responsibilities pertaining to VRFD's development and execution.
 
