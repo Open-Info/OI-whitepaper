@@ -14,8 +14,8 @@ The project's structure, stakeholders and governance are explained in the first 
 [formalities.md](the-project/formalities.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-project/stakeholders.md" %}
-[stakeholders.md](the-project/stakeholders.md)
+{% content-ref url="the-project/token-holders.md" %}
+[token-holders.md](the-project/token-holders.md)
 {% endcontent-ref %}
 
 {% content-ref url="the-project/open-info-token-oit/" %}

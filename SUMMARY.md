@@ -6,7 +6,7 @@
 ## The Project
 
 * [⚖ Formalities](the-project/formalities.md)
-* [🌍 Stakeholders](the-project/stakeholders.md)
+* [🌍 Token holders](the-project/token-holders.md)
 * [🪙 Open Info Token (OIT)](the-project/open-info-token-oit/README.md)
   * [Utility, value & reward](the-project/open-info-token-oit/utility-value-and-reward.md)
   * [Tokenomics](the-project/open-info-token-oit/tokenomics.md)
