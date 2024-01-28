@@ -44,6 +44,6 @@ The following page provides a detailed description of the Soulbound NFTs pioneer
 
 See our user manual here
 
-{% content-ref url="http://127.0.0.1:5000/s/vj0yO7IWreCs5VlqQLfh/" %}
-[VRFD User Manual](http://127.0.0.1:5000/s/vj0yO7IWreCs5VlqQLfh/)
+{% content-ref url="https://app.gitbook.com/s/vj0yO7IWreCs5VlqQLfh/" %}
+[VRFD User Manual](https://app.gitbook.com/s/vj0yO7IWreCs5VlqQLfh/)
 {% endcontent-ref %}

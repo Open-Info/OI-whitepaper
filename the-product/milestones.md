@@ -22,13 +22,13 @@ description: The milestones
 
 #### Quarter 3
 
-* [ ] **Milestone:** Private Sale and marketing
+* [x] **Milestone:** Private Sale and marketing
   * _Description:_ Official announcement of OIT to the public.
   * _Tasks:_ Accept applications for Investments. Raise awareness of project mission.
 
 #### Quarter 4
 
-* [ ] **Milestone:** Public Sale and marketing
+* [x] **Milestone:** Public Sale and marketing
   * _Description:_ Official sale and launch of OIT.
   * _Tasks:_ Reveal the date and promote the project, Add Liquidity and Airdrop Presalers.
 
