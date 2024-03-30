@@ -1,14 +1,14 @@
 # Table of contents
 
-* [ℹ Opening Words](README.md)
+* [ℹ️ Opening Words](README.md)
 * [📑 Breakdown](<README (1).md>)
 
 ## The Project
 
-* [⚖ Formalities](the-project/formalities.md)
+* [⚖️ Formalities](the-project/formalities.md)
 * [🌍 Community](the-project/community.md)
 * [🪙 Open Info Token (OIT)](the-project/open-info-token-oit/README.md)
-  * [Utility, value & reward](the-project/open-info-token-oit/utility-value-and-reward.md)
+  * [Why HODL?](the-project/open-info-token-oit/why-hodl.md)
   * [Tokenomics](the-project/open-info-token-oit/tokenomics.md)
   * [Voting](the-project/open-info-token-oit/token.md)
 * [👥 Core Team](the-project/team.md)
@@ -17,7 +17,7 @@
 
 * [✅ VRFD dApp](the-product/vrfd-dapp.md)
 * [👾 Soulbound Identification](tech.md)
-* [🛣 Roadmap](the-product/milestones.md)
+* [🛣️ Roadmap](the-product/milestones.md)
 
 ## About us
 

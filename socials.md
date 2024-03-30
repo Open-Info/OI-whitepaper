@@ -15,12 +15,6 @@ Click on the tabs below to view our different social accounts.
 
 {% endtab %}
 
-{% tab title="TikTok" %}
-## TikTok
-
-{% embed url="https://www.tiktok.com/@oi_vrfd" %}
-{% endtab %}
-
 {% tab title="Telegram" %}
 ## Telegram
 

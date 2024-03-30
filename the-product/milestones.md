@@ -2,11 +2,11 @@
 description: The milestones
 ---
 
-# 🛣 Roadmap
+# 🛣️ Roadmap
 
 ## Project Roadmap
 
-### Year 1
+### Year 2023
 
 #### Quarter 1
 
@@ -32,20 +32,16 @@ description: The milestones
   * _Description:_ Official sale and launch of OIT.
   * _Tasks:_ Reveal the date and promote the project, Add Liquidity and Airdrop Presalers.
 
-### Year 2
+### Year 2024
 
-#### Quarter 1
+#### Quarter 1 & 2
 
 * [ ] **Milestone:** Accumulate users and refine the VRFD webapp
-  * _Description:_ Finish full integrations between front-/backend and blockchain.
+  * _Description:_ Develop integrations between front-/backend and blockchain.
   * _Tasks:_ Finish on-chain verification and flagging forms for transparency and scalability.
 
-#### Quarter 2
+#### Quarter 3 & 4
 
 * [ ] **Milestone:** Gather data and develop Wallet Health
   * _Description:_ Analyze system effectiveness and collect data from Soulbound NFTs and user feedback.
   * _Tasks:_ Develop algorithms and machine learning models for fraud detection. Improve flagging system transparency and scalability.
-
-#### Quarter 3
-
-Voted on through Snapshot.
