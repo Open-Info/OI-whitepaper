@@ -18,8 +18,8 @@ The project's structure, stakeholders and governance are explained in the first 
 [community.md](the-project/community.md)
 {% endcontent-ref %}
 
-{% content-ref url="the-project/open-info-token-oit/" %}
-[open-info-token-oit](the-project/open-info-token-oit/)
+{% content-ref url="the-project/open-info-token/" %}
+[open-info-token](the-project/open-info-token/)
 {% endcontent-ref %}
 
 {% content-ref url="the-project/team.md" %}

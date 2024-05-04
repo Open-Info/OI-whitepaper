@@ -1,5 +1,5 @@
 ---
-description: The Preliminary Open Info Custodians.
+description: VRFD custodians
 ---
 
 # 👥 Core Team
@@ -100,4 +100,4 @@ ross@vrfd.info\
 
 ## Want to join?
 
-Contact hi@vrfd.info and be sure to bring your verified address along!
+Contact `hi@vrfd.info` and be sure to bring your verified address along!

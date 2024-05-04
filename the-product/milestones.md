@@ -40,8 +40,12 @@ description: The milestones
   * _Description:_ Develop integrations between front-/backend and blockchain.
   * _Tasks:_ Finish on-chain verification and flagging forms for transparency and scalability.
 
+{% hint style="danger" %}
+#### After the liquidation of OIT, the VRFD roadmap has been paused indefinitely
+{% endhint %}
+
 #### Quarter 3 & 4
 
-* [ ] **Milestone:** Gather data and develop Wallet Health
+* [ ] **Milestone:** ~~Gather data and develop Wallet Health~~
   * _Description:_ Analyze system effectiveness and collect data from Soulbound NFTs and user feedback.
   * _Tasks:_ Develop algorithms and machine learning models for fraud detection. Improve flagging system transparency and scalability.

@@ -7,10 +7,10 @@
 
 * [⚖️ Formalities](the-project/formalities.md)
 * [🌍 Community](the-project/community.md)
-* [🪙 Open Info Token (OIT)](the-project/open-info-token-oit/README.md)
-  * [Why HODL?](the-project/open-info-token-oit/utility-value-and-reward.md)
-  * [Tokenomics](the-project/open-info-token-oit/tokenomics.md)
-  * [Voting](the-project/open-info-token-oit/token.md)
+* [🪙 Open Info Token](the-project/open-info-token/README.md)
+  * [Why HODL?](the-project/open-info-token/why-hodl.md)
+  * [Tokenomics](the-project/open-info-token/tokenomics.md)
+  * [Voting](the-project/open-info-token/token.md)
 * [👥 Core Team](the-project/team.md)
 
 ## The Product
