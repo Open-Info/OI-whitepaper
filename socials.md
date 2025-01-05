@@ -4,32 +4,10 @@ description: Join us on our public platforms.
 
 # 📣 Socials
 
-Click on the tabs below to view our different social accounts.
+## X
 
-{% tabs %}
-{% tab title="Twitter" %}
-## Twitter
+[https://x.com/\_vrfd](https://x.com/_vrfd)
 
-{% embed url="https://twitter.com/_vrfd" %}
-
-
-{% endtab %}
-
-{% tab title="Telegram" %}
-## Telegram
-
-{% embed url="https://t.me/oi_vrfd" %}
-{% endtab %}
-
-{% tab title="Medium" %}
 ## Medium
 
 [https://oi-vrfd.medium.com/](https://oi-vrfd.medium.com/)
-{% endtab %}
-
-{% tab title="Discord" %}
-## Discord
-
-coming soon...
-{% endtab %}
-{% endtabs %}
