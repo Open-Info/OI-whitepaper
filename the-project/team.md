@@ -14,11 +14,6 @@ Executive\
 \
 Our leader.
 
-werner@vrfd.info
-
-[Github](https://github.com/WernerVdM97)\
-[LinkedIn](https://www.linkedin.com/in/werner-van-der-merwe-57b074192)
-
 </details>
 
 <details>
@@ -28,10 +23,6 @@ werner@vrfd.info
 Technical\
 \
 The brains.
-
-decarb@vrfd.info\
-\
-[LinkedIn](https://za.linkedin.com/in/devin-joubert-a7561518a)
 
 </details>
 
@@ -43,11 +34,6 @@ Branding\
 \
 The looks.
 
-zirk@vrfd.info\
-brand@vrfd.info\
-\
-[LinkedIn](https://www.linkedin.com/in/zirk-mackay-94846b224)
-
 </details>
 
 <details>
@@ -57,11 +43,6 @@ brand@vrfd.info\
 Finances\
 \
 The cruncher of numbers.
-
-marinus@vrfd.info\
-finance@vrfd.info
-
-[LinkedIn](https://www.linkedin.com/in/pieter-marinus-compion-a224271b4/)
 
 </details>
 
@@ -73,10 +54,6 @@ Operations\
 \
 The oil to our machine.
 
-qaurtus@vrfd.info\
-\
-[LinkedIn](https://www.linkedin.com/in/quartus-lamprecht-42bb9815a/)
-
 </details>
 
 <details>
@@ -85,11 +62,7 @@ qaurtus@vrfd.info\
 
 Data\
 \
-The problem solver.
-
-ross@vrfd.info\
-\
-[LinkedIn](https://www.linkedin.com/in/rossouw-landman-0679b5193/)
+The data chad.
 
 </details>
 
